@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Khrystyna",
+      "lastName": "Kindrat",
+      "email": "christabelkril@example.com",
+      "phone": "+1 123 456 7890",
+      "subscription": "premium"
+    },
+    {
+      "id": 2,
+      "firstName": "Ivan",
+      "lastName": "Ostap",
+      "email": "ivanostapp@example.com",
+      "phone": "+1 987 654 3210",
+      "subscription": "standard"
+    },
+    {
+      "id": 3,
+      "firstName": "Ivan",
+      "lastName": "Myk",
+      "email": "ivanmyk@example.com",
+      "phone": "+380 568 9232",
+      "subscription": "no"
+    },
+    {
+      "firstName": "Ostap",
+      "lastName": "Unknown",
+      "email": "osrapp@example.com",
+      "phone": "+380 976 364",
+      "subscription": "standart",
+      "id": 0.12950266664639565
+    }
+  ]
+}
